@@ -7,7 +7,6 @@ module.exports = {
     colors: {
       'skin': '#ef8a86', 
       'yellowish': '#fdf2df',
-      'white': '#ffffff',
       'Darkskin': '#BE6361',
       
     },
@@ -21,14 +20,11 @@ module.exports = {
     width: {
       'half': '50vw',
       'max': '100%',
-      '517': '517px',
-      
-
+  
     },
 
     height: {
       'half': '50vh',
-      '448': "448px"
       
     },
 
